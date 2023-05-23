@@ -1,0 +1,32 @@
+.mainsection {
+    background-color: gold;
+    color: darkblue;
+    font-size: 75pt;
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: bold;
+    font-size: 25pt;
+}
+
+ul li img {
+    width: 300px;
+    height: 300px;
+}
+
+.bottompart {
+    background-color: black;
+}
+
+#finalline {
+    color: darkcyan;
+    font-size: 50pt;
+    text-align: center;
+}
+
+.bottomspan {
+    color: purple;
+}
